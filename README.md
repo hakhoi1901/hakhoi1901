@@ -31,4 +31,4 @@ Here are some projects where I apply my knowledge to solve practical problems:
 ---
 
 ### 📫 Contact
-* **Email:** HaKhoi1901@gmail.com
+* **Email:** Hakhoi.contact@gmail.com
