@@ -1,4 +1,4 @@
-## Hi, I'm Hà Đăng Khôi (@Hakhoi1901)
+## Hi, I'm Khôi (@Hakhoi1901)
 
 I am a second-year Computer Science student at **VNU-HCM University of Science**.
 
