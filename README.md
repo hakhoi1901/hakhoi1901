@@ -15,19 +15,15 @@ I prioritize understanding the "why" and the internal nature of systems rather t
 ### 🛠️ Projects
 Here are some projects where I apply my knowledge to solve practical problems:
 
-* **[TasteMap](https://github.com/EndlessMelody/tastemap)**
-    * **Description:** Built an "Interactive Feed" API featuring a mathematical scoring logic based on user preference vectors to recommend tourism activities.
-    * **Stack:** Python, FastAPI, Vector Space Models (VSM).
-
 * **[UStudy](https://github.com/hakhoi1901/ustudy)**
     * **Description:** A utility tool (bookmarklet) designed to enhance the user experience on the university's training portal, featuring academic progress analysis and course recommendations.
     * **Stack:** JavaScript, DOM Manipulation.
 
-* **[Smart Course Scheduler](https://github.com/hakhoicontact-arch/Smart-Course-Scheduler)**
+* **[Smart Course Scheduler](https://github.com/hakhoi1901/Smart-Course-Scheduler)**
     * **Description:** An automated scheduling tool designed to solve Constraint Satisfaction Problems (CSP), aiming to resolve time conflicts while respecting student preferences.
     * **Stack:** C++/Python, Optimization Algorithms.
 
-* **[Remote Control System](https://github.com/hakhoicontact-arch/Remote-Control-System)**
+* **[Remote Control System](https://github.com/hakhoi1901/Remote-Control-System)**
     * **Description:** Software architecture for a remote control system, focusing on reliable network/serial communication and data stream processing.
     * **Stack:** C#, SignalR, ASP.NET Core.
 
@@ -38,7 +34,15 @@ Here are some projects where I apply my knowledge to solve practical problems:
 * **[8-bit MiniCPU Simulator](https://github.com/hakhoi1901/minicpu-legv8)**
     * **Description:** Designed and simulated a basic 8-bit CPU based on the LEGv8 architecture, implementing the Instruction Set Architecture, Program Counter, and Control Unit modules at the logic gate level.
     * **Stack:** C++, Low-level System Architecture.
+---
 
+### 🤝 Collaborative Work & Core Logic
+
+* **[TasteMap](https://github.com/EndlessMelody/tastemap)** | *Core Backend Logic*
+    * **Boundary:** Strictly handled backend mathematics and API architecture; UI/UX decoupled.
+    * **Contribution:** Engineered the "Interactive Feed" API, utilizing Vector Space Models (VSM) to compute mathematical scoring logic based on user preference vectors.
+    * **Stack:** Python, FastAPI, VSM.
+  
 ---
 
 ### 📫 Contact
