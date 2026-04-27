@@ -1,22 +1,25 @@
 ## Hi, I'm Khôi (@Hakhoi1901)
 
-I am a second-year Computer Science student at **VNU-HCM University of Science**.
+I am a second-year Computer Science student at **VNU-HCM University of Science**. My work revolves around core system architecture, low-level mechanics, and from-scratch algorithmic implementations.
 
 ---
 
 ### 🔭 Current Focus & Learning
-I am currently building a foundation in Computer Science with a focus on:
-
-* **Core:** C++, Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA).
-* **Data & Web:** Relational Databases (SQL) and modern Web Frameworks.
-* **Interests:** Optimization Algorithms, and Computational Astronomy.
+I prioritize understanding the "why" and the internal nature of systems rather than just using high-level frameworks.
+* **System Architecture & Backend:** C++, C#, ASP.NET Core, Object-Oriented Design, Backend Logic strictly separated from UI/UX.
+* **Low-Level & Simulation:** Memory management, CPU architecture simulation (LEGv8), computational physics.
+* **Algorithms & Optimization:** Constraint Satisfaction Problems (CSP), Vector Space Models (VSM), Genetic Algorithms / Neuroevolution.
 
 ---
 
 ### 🛠️ Projects
 Here are some projects where I apply my knowledge to solve practical problems:
 
-* **[HCMUS Portal Tool](https://github.com/hakhoicontact-arch/hcmus-portal-tool)**
+* **[TasteMap](https://github.com/EndlessMelody/tastemap)**
+    * **Description:** Built an "Interactive Feed" API featuring a mathematical scoring logic based on user preference vectors to recommend tourism activities.
+    * **Stack:** Python, FastAPI, Vector Space Models (VSM).
+
+* **[UStudy](https://github.com/hakhoi1901/ustudy)**
     * **Description:** A utility tool (bookmarklet) designed to enhance the user experience on the university's training portal, featuring academic progress analysis and course recommendations.
     * **Stack:** JavaScript, DOM Manipulation.
 
@@ -26,7 +29,15 @@ Here are some projects where I apply my knowledge to solve practical problems:
 
 * **[Remote Control System](https://github.com/hakhoicontact-arch/Remote-Control-System)**
     * **Description:** Software architecture for a remote control system, focusing on reliable network/serial communication and data stream processing.
-    * **Stack:** C++, Network Programming (TCP/UDP), Serial Communication.
+    * **Stack:** C#, SignalR, ASP.NET Core.
+
+* **[Caro - Neuroevolution](https://github.com/hakhoi1901/Caro-Neuroevolution)**
+    * **Description:** Developed a Gomoku AI generation pipeline strictly from scratch. Evaluated AI generations for 3x3 boards without relying on external ML libraries.
+    * **Stack:** C++, Custom Neural Networks, Genetic Algorithms.
+
+* **[8-bit MiniCPU Simulator](https://github.com/hakhoi1901/minicpu-legv8)**
+    * **Description:** Designed and simulated a basic 8-bit CPU based on the LEGv8 architecture, implementing the Instruction Set Architecture, Program Counter, and Control Unit modules at the logic gate level.
+    * **Stack:** C++, Low-level System Architecture.
 
 ---
 
